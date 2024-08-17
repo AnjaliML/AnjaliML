@@ -3,7 +3,7 @@
 
 Hello, I'm Anjali Suman. I'm a statistician by training and have an interest in machine learing. 
 
-Currently, I am working on a project that combines **machine learning with survival analysis for predictive maintenance** under the mentorship of Prof. Akash Deep (@deepakash9) at Oklahoma State University. 
+Currently, I am working on a project that combines **machine learning with survival analysis for predictive maintenance** under the mentorship of Prof. Akash Deep ([@deepakash9](https://github.com/deepakash9)) at Oklahoma State University. 
 
 In this project, we use a deep learning approach to modify the classical Cox proportional hazards model from biostatistics. Our goal is to predict when a machine will fail next and intervene with maintenance before failure occurs, using the machine's covariates as input. This work has taught me to apply advanced analytical methods to practical problems and has given me
 experience in developing innovative algorithms for complex data interpretation tasks.
