@@ -1,7 +1,7 @@
 name: GitHub Stats Update
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Runs daily at midnight
+    - cron: '0 4 * * *' 
   workflow_dispatch:      # Allows manual trigger
     
 jobs:
