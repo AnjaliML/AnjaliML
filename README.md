@@ -13,8 +13,8 @@ experience in developing innovative algorithms for complex data interpretation t
 <p align="center">
   <a href="https://github.com/AnjaliML" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-delta-lovat.vercel.app/?user=AnjaliML&theme=vision-friendly-dark" width="53%" height="auto">
-      <img alt="Anjali's GitHub streak" src="https://github-readme-streak-stats-delta-lovat.vercel.app/?user=AnjaliML&theme=solarized-light&hide_border=true" width="53%" height="auto">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-delta-lovat.vercel.app/?user=AnjaliML&theme=vision-friendly-dark" width="60%" height="auto">
+      <img alt="Anjali's GitHub streak" src="https://github-readme-streak-stats-delta-lovat.vercel.app/?user=AnjaliML&theme=solarized-light&hide_border=true" width="60%" height="auto">
     </picture>
   </a>
 </p>
