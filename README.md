@@ -9,25 +9,34 @@ In this project, we use a deep learning approach to modify the classical Cox pro
 experience in developing innovative algorithms for complex data interpretation tasks.
 
 ---
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats-anjali-sumans-projects.vercel.app/api?username=AnjaliML&show_icons=true&theme=dark" alt="Anjali's GitHub stats" style="width: 55%;">
-    <img src="https://github-readme-stats-anjali-sumans-projects.vercel.app/api/top-langs/?username=AnjaliML&layout=compact&theme=dark" alt="Top Langs" style="width: 42%;">
-</div>
 
----
+<p align="center">
+  <a href="https://github.com/AnjaliML" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-delta-lovat.vercel.app/?user=AnjaliML&theme=vision-friendly-dark" width="53%" height="auto">
+      <img alt="Anjali's GitHub streak" src="https://github-readme-streak-stats-delta-lovat.vercel.app/?user=AnjaliML&theme=solarized-light&hide_border=true" width="53%" height="auto">
+    </picture>
+  </a>
+</p>
+
+ <a href="https://github.com/AnjaliML" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anjali-sumans-projects.vercel.app/api?username=AnjaliML&show_icons=true&theme=vision-friendly-dark" width="55%" height="auto">
+      <img alt="Anjali's GitHub stats" src="https://github-readme-stats-anjali-sumans-projects.vercel.app/api?username=AnjaliML&show_icons=true&theme=solarized-light&hide_border=true" width="55%" height="auto">
+    </picture>
+  </a>
+  <a href="https://github.com/AnjaliML" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anjali-sumans-projects.vercel.app/api/top-langs/?username=AnjaliML&layout=compact&theme=vision-friendly-dark" width="42%" height="auto">
+      <img alt="Top Langs" src="https://github-readme-stats-anjali-sumans-projects.vercel.app/api/top-langs/?username=AnjaliML&layout=compact&theme=solarized-light&hide_border=true" width="42%" height="auto">
+    </picture>
+  </a>
 
 
-<!--
-**AnjaliML/AnjaliML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ---
 
-Here are some ideas to get you started:
+  ### :zap: More statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!--START_SECTION:github-stats-->
+  <!--END_SECTION:github-stats-->
+
